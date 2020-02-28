@@ -1,5 +1,14 @@
+<?php 
+include_once 'inc/config.php';
+include_once 'inc/functions.php';
+
+$connection = getConnection();
+$makes = getMakes($connection);
+
+?>
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="hu">
 
 <head>
     <meta charset="UTF-8">
@@ -17,23 +26,28 @@
         <div class="row">
 
             <!-- HTML form for creating a product -->
-            <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
+            <form action="<?= htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
 
                 <div class="form-inline motor" id="motor-1">
                     <div class="form-group">
                         <!-- <label for="motor-1-marka">Motor márka: </label> -->
-                        <input type="text" id="motor-1-make" name="motor-1-make" class="form-control" placeholder="Márka">
+                        <select type="text" id="motor-1-make" name="motor-1-make" class="form-control make-select" placeholder="Márka">
+                            <option value="-1">- Válassz gyártmányt -</option>
+                            <?php foreach ($makes as $make): ?>
+                                <option value="<?=$make['id']?>"><?= $make['make'] ?></option>
+                            <?php endforeach; ?>
+                        </select>
                     </div>
 
                     <div class="form-group mx-sm-2">
                         <!-- <label for="motor-1-tipus">Motor típus: </label> -->
-                        <input type="text" id="motor-1-type" name="motor-1-type" class="form-control" placeholder="Típus">
+                        <input type="text" id="motor-1-model" name="motor-1-model" class="form-control" placeholder="Típus">
                     </div>
 
                     <!-- Remove motor -->
-                    <button type="button" class="btn btn-danger remove-motor" id="remove-1">
+                    <!-- <button type="button" class="btn btn-danger remove-motor" id="remove-1">
                         <i class="fa fa-remove" aria-hidden="true"></i>
-                    </button>
+                    </button> -->
 
                 </div>
 
@@ -51,12 +65,9 @@
                     </div>
                 </div>
 
-
             </form>
         </div>
     </div>
-
-
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js'></script>

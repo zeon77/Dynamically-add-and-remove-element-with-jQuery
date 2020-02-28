@@ -1,4 +1,3 @@
-
 $(document).ready(function () {
 
     // Add new motor
@@ -55,4 +54,21 @@ $(document).ready(function () {
         $("#motor-" + deleteindex).remove();
 
     });
+
+    //Populate model on makes change
+    $('.make-select').change(function(){
+        var make_id = $(this).val();
+        var motor_num = $(this).attr('id').split('-')[1];
+
+        $.ajax({
+            url: 'getModel.php',
+            type: 'post',
+            data: {make_id: make_id},
+            dataType: 'json',
+            success: function (response) {
+
+            }
+        });
+    });
+
 });
