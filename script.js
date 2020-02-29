@@ -66,7 +66,10 @@ $(document).ready(function () {
             data: {make_id: make_id},
             dataType: 'json',
             success: function (response) {
-                
+                $('#motor-'+motor_num+'-model option').not(':first').remove();
+                response.forEach(element => {
+                    $('#motor-'+motor_num+'-model').append('<option>'+element.model+'</option>');
+                });                
             }
         });
     });
