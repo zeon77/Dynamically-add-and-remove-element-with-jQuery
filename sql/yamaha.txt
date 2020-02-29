@@ -1,0 +1,482 @@
+250 Racer,6
+3CT Concept,6
+Aerox 155VVA,6
+Aerox 155VVA,6
+Aerox 50,6
+AG 100,6
+AG 125,6
+AG 175,6
+AG 200,6
+Alba 110,6
+Alpha ,6
+AS,6
+Axis Treet,6
+Banshee YFZ350,6
+Big Bear 250,6
+Big Bear 400,6
+Black Max,6
+Bolt,6
+Bolt,6
+Bolt C-Spec,6
+Bolt R-Spec,6
+Bruin,6
+BT 1100 Bulldog,6
+BWs 125,6
+BWS 125,6
+BWs 50,6
+Byson FI,6
+C3,6
+CA50M,6
+CP250 Maxam,6
+Crux,6
+CS5,6
+CT1B 175,6
+Cygnus,6
+Delight,6
+Delight,6
+Diversion,6
+Drag Star,6
+Drag Star,6
+Drag Star 1100,6
+Drag Star 250,6
+Drag Star 400,6
+DS 6,6
+DS 7,6
+DT 125,6
+DT 175,6
+DT 250,6
+DT 360,6
+DT 400,6
+DT 50,6
+DT200R,6
+DT50X,6
+E-Vino,6
+E01 Genesis,6
+E02 Genesis,6
+EC-03,6
+eVino,6
+Fascino,6
+Fascino,6
+Fascino 125Fl,6
+Fazer,6
+Fazer 8,6
+Fino 125,6
+FJ 1100,6
+FJ 1200,6
+FJ 600,6
+FJ-09,6
+FJR 1300,6
+FJR1300A,6
+FJR1300AE,6
+FJR1300AS,6
+FJR1300ES,6
+FS 1 DX Fizzy,6
+FZ 150 N,6
+FZ 25,6
+FZ 25,6
+FZ 6,6
+FZ 750,6
+FZ FI,6
+FZ FI,6
+FZ-07,6
+FZ-09,6
+FZ-10,6
+FZ-S,6
+FZ-S Fi,6
+FZ1,6
+FZ16,6
+FZ25,6
+FZ6,6
+FZ8,6
+FZi,6
+FZR 1000,6
+FZR 250,6
+FZR 400,6
+FZR 600,6
+FZR 750,6
+FZS 1000 Fazer,6
+FZS 150,6
+FZS 400 Fazer,6
+FZS 600 Fazer,6
+FZX 700 Fazer,6
+FZX 750 Fazer,6
+G5,6
+Giggle,6
+Gladiator,6
+Grand Axis 100,6
+Grand Majesty,6
+Grizzly 125,6
+Grizzly 300,6
+Grizzly 350,6
+Grizzly 450,6
+Grizzly 550,6
+Grizzly 700,6
+Grizzly 700 FI Auto 4x4,6
+Grizzly EPS,6
+Grizzly EPS LE,6
+Grizzly EPS SE,6
+GT80 B,6
+GTS 1000,6
+Iron Max,6
+IT,6
+IT 175 D,6
+IT 250,6
+IT 490,6
+IT465,6
+Jog,6
+JT1MX Mini Enduro,6
+Jupiter,6
+Kodiak 450,6
+Kodiak 450,6
+Kodiak 450 EPS ,6
+Kodiak 450 EPS SE,6
+Kodiak 700,6
+Kodiak 700,6
+Kodiak 700 EPS,6
+Kodiak 700 EPS SE,6
+KS 250,6
+LB 3 bop 80,6
+LB 70 Chappy,6
+LS 2,6
+Majesty 125,6
+Majesty 180,6
+Majesty 250,6
+Majesty 400,6
+Maxam,6
+Maxim X,6
+Midnight Warrior,6
+Mio,6
+Monster Energy  Yamaha Motogp Edition YZF-R3,6
+Morphous,6
+MOTOROiD,6
+MR50,6
+MT-01,6
+MT-03,6
+MT-03,6
+MT-07,6
+MT-07,6
+MT-07HO,6
+MT-09,6
+MT-10,6
+MT-10,6
+MT-10 SP,6
+MT-125,6
+MT-15,6
+MT-25,6
+MT07TR,6
+MT09TR,6
+MT09TR GT,6
+MT125,6
+MX 175 B,6
+Neos,6
+Night Max,6
+Niken,6
+Niken GT,6
+NMAX,6
+NMAX 125,6
+PED2 Concept,6
+PES2 Concept,6
+PW 50,6
+PW 80,6
+PW50,6
+R 3,6
+R 5,6
+R1M,6
+Raider,6
+Raptor 125,6
+Raptor 250,6
+Raptor 350,6
+Raptor 700,6
+Raptor 90,6
+Ray Z,6
+Ray Z,6
+RD 125,6
+RD 200,6
+RD 250,6
+RD 350,6
+RD 400,6
+RD 500,6
+RD 80 LC,6
+Resonator 125 Concept,6
+Riva,6
+Road Star,6
+Roadliner,6
+Royal Star,6
+RS 100,6
+RS 125,6
+RS 200,6
+RX 100,6
+RX 125,6
+RX 135,6
+RZ 350,6
+RZ 50,6
+Saluto,6
+Saluto 125,6
+Saluto RX,6
+SCR 950,6
+SDR 200,6
+Serow,6
+Sight,6
+Slider,6
+Smax,6
+Smax,6
+Sniper 150,6
+Soul,6
+SR 125,6
+SR 250,6
+SR 400,6
+SR 500,6
+SRX 250,6
+SRX 6,6
+ST 125,6
+Star Bolt,6
+Star Eluder,6
+Star Midnight Warrior,6
+Star Raider,6
+Star Roadliner,6
+Star Stratoliner,6
+Star Stryker,6
+Star Venture,6
+Star Venture,6
+Star Venture TC,6
+Star VMAX,6
+Star Warrior,6
+Stratoliner,6
+Stryker,6
+Super Tenere,6
+Super Tenere ES,6
+SZ,6
+SZ-RR,6
+SZ-RR Version 2,6
+SZR 125,6
+SZR 660,6
+T-Max 500,6
+T7 Concept,6
+TD125LC,6
+TDM 850,6
+TDM 900,6
+TDR 125,6
+TDR 250,6
+Tenere 700,6
+Tenere 700,6
+TMax,6
+TMAX 560,6
+TR 1,6
+Tracer 700,6
+Tracer 900,6
+Tracer 900,6
+Tracer 900 GT,6
+Tricity,6
+Tricity 125,6
+Tricity 155,6
+Tricity 300,6
+Tricker,6
+Tritown,6
+TRX 850,6
+TT 225,6
+TT 250,6
+TT 350,6
+TT 600,6
+TT-R 110,6
+TT-R 125,6
+TT-R 225,6
+TT-R 230,6
+TT-R 250,6
+TT-R 50,6
+TT-R 90,6
+TT-R110E,6
+TT-R125LE,6
+TT-R230,6
+TT-R50E,6
+TTR110,6
+TTR125LWE,6
+TW 125,6
+TW 200,6
+TW200,6
+TW200E,6
+TX 500,6
+TX 750,6
+TY 50,6
+TY-E,6
+TZ 125,6
+TZ 250,6
+TZR 125,6
+TZR 250,6
+TZR 50,6
+U7E,6
+V Star 1100,6
+V Star 1300,6
+V Star 250,6
+V Star 250,6
+V Star 950,6
+V Star Classic,6
+V Star Custom,6
+V Star Silverado,6
+V-Ixion Advance,6
+V-Max Hermes,6
+Vega,6
+Versity,6
+Vino 125,6
+Vino 50,6
+Virago 250,6
+Virago 920,6
+Virago XV 535,6
+Vity,6
+Vixion,6
+VMAX,6
+VMax,6
+VMax 1600,6
+VMX 1200,6
+Vox,6
+Warrior,6
+WF 250,6
+WF 450 F,6
+Why,6
+Wolverine,6
+Worldcrosser,6
+WR 125,6
+WR 250,6
+WR 400,6
+WR 426,6
+WR 450,6
+WR250F,6
+WR250R,6
+WR450F,6
+X-City 125,6
+X-City 250,6
+X-Max 125,6
+X-Max 250,6
+X-Max 300,6
+X-MAX 300,6
+X-MAX 400,6
+X-Ride,6
+Xabre,6
+XC 125,6
+XC 300 Versity,6
+XC50D Vino Molfe,6
+Xenter,6
+XJ 400 Seca,6
+XJ 550,6
+XJ 600,6
+XJ 650,6
+XJ 700,6
+XJ 750,6
+XJ 900,6
+XJ Diversion,6
+XJ6,6
+XJR 1200,6
+XJR 1300,6
+XJR 400 R,6
+XMax 300 Iron Max,6
+XMax 400 Iron Max,6
+XS 1100,6
+XS 2,6
+XS 250,6
+XS 360,6
+XS 400,6
+XS 500,6
+XS 650,6
+XS 750,6
+XS 850,6
+XSR 700,6
+XSR 900,6
+XSR700,6
+XSR700LA,6
+XSR900,6
+XT 1200,6
+XT 125,6
+XT 225,6
+XT 250,6
+XT 350,6
+XT 500,6
+XT 550,6
+XT 600,6
+XT 660,6
+XT250,6
+XTZ 1200 Super Tenere Worldcrosser,6
+XTZ 125,6
+XTZ 250 Lander,6
+XTZ 600,6
+XTZ 660 Ténéré,6
+XTZ 750 Super Ténéré,6
+XV 1000 Virago,6
+XV 1100 Virago,6
+XV 125 Virago,6
+XV 1600 Wild Star,6
+XV 1700 Warrior,6
+XV 1900 Midnight Star,6
+XV 250 Virago,6
+XV 500,6
+XV 535,6
+XV 700,6
+XV 750,6
+XV 920,6
+XV 950,6
+XV250,6
+XVS 1300,6
+XVS 650,6
+XVS 950,6
+XVS650 A,6
+XVZ 12,6
+XVZ 13,6
+XVZ 1300 Royal Star,6
+XZ 550,6
+YAS 1,6
+YB 50,6
+YB-1 Four,6
+YBR 110,6
+YBR 125,6
+YBR 250,6
+YDS 3,6
+YFM 250,6
+YFM 350,6
+YFM 700,6
+YFM 90,6
+YFM50,6
+YFM700R,6
+YFZ 450,6
+YFZ 50,6
+YFZ350 Banshee,6
+YFZ450R,6
+YP 250,6
+YP Majesty 250,6
+YS 125,6
+YW 100 - Beewee 100,6
+YW 125 BeeWee,6
+YX 600 Radian,6
+YZ 125,6
+YZ 250,6
+YZ 426,6
+YZ 450,6
+YZ 490,6
+YZ 65,6
+YZ 85,6
+YZ125,6
+YZ125X,6
+YZ250,6
+YZ250F,6
+YZ250FX,6
+YZ250X,6
+YZ450 FX,6
+YZ450F,6
+YZ85,6
+YZF 1000 Thunderace,6
+YZF 15,6
+YZF 600 Thundercat,6
+YZF 750,6
+YZF R15,6
+YZF R15 V,6
+YZF-R 125,6
+YZF-R1,6
+YZF-R1,6
+YZF-R15,6
+YZF-R1M,6
+YZF-R25,6
+YZF-R3,6
+YZF-R3,6
+YZF-R6,6
+YZF-R6,6
+YZF-R7,6
+Zuma 125,6
+Zuma 125,6
+Zuma 50,6

@@ -1,0 +1,318 @@
+100,4
+125,4
+250 F,4
+250 S,4
+250 TR,4
+350 F,4
+350 S,4
+400 S 3 Mach II,4
+500 H,4
+620 Duke,4
+650 D - 650 SR,4
+750 H,4
+900 Z,4
+A1 Samurai,4
+A7 Avenger,4
+Athlete PRO,4
+Bayou 250,4
+Brute Force 300,4
+Brute Force 650,4
+Brute Force 750,4
+Brute Force 750 4x4i EPS,4
+Brute Force 750 4x4i EPS Camo,4
+Concours 1000,4
+Concours 14,4
+Concours 14 ABS,4
+Coyote MB1-A,4
+CSR 1000,4
+D-Tracker,4
+D-Tracker X,4
+EL 125 Eliminator,4
+EL 250,4
+Eliminator 600,4
+EN 400 Vulcan,4
+EN 500,4
+ER-4n,4
+ER-5,4
+ER-6f,4
+ER-6n,4
+Estrella,4
+EX 500,4
+F-11 250B,4
+FX 400 R,4
+G3SS,4
+G5 100,4
+GPX 500 R,4
+GPX 600,4
+GPX 750,4
+GPZ 1000,4
+GPZ 1100,4
+GPZ 250 Belt Drive,4
+GPZ 305,4
+GPZ 400,4
+GPZ 500,4
+GPZ 550,4
+GPZ 600,4
+GPZ 750,4
+GPZ 900,4
+GS 500 E,4
+GT 125 R,4
+GT 250 R,4
+GTO 125,4
+GTR 1000,4
+GTR 1400,4
+H T 125,4
+J 125,4
+J 300,4
+J125,4
+J300,4
+KD 80 M,4
+KDX 175,4
+KDX 200,4
+KDX 220 R,4
+KDX 50,4
+KE 100,4
+KE 125,4
+KE 175,4
+KFX 450,4
+KFX 50,4
+KFX 700,4
+KFX 90,4
+KFX450R Monster Energy,4
+KH 125,4
+KH 250,4
+KH 400,4
+KH 500,4
+KH100-B7,4
+KL 250,4
+KLE 500,4
+KLF 300,4
+KLF250,4
+KLR 250,4
+KLR 600,4
+KLR 650,4
+KLV 1000,4
+KLX 110,4
+KLX 110L,4
+KLX 125,4
+KLX 140,4
+KLX 140,4
+KLX 140L,4
+KLX 150,4
+KLX 250,4
+KLX 250,4
+KLX 300,4
+KLX 450,4
+KLX 650,4
+KLX110,4
+KLX230,4
+KLX230R,4
+KLX250S,4
+KLX300R,4
+KLX450R,4
+KM 100,4
+KMX 125,4
+KMX 200,4
+KR1-S,4
+KSR 110,4
+KSR Pro,4
+KSR PRO,4
+KVF 300,4
+KVF 360,4
+KVF 650,4
+KVF 750,4
+KX 100,4
+KX 125,4
+KX 250,4
+KX 450,4
+KX 500,4
+KX 60,4
+KX 65,4
+KX 85,4
+KX 85 II Grossrad,4
+KX 900,4
+KX100,4
+KX110,4
+KX250,4
+KX450,4
+KX65,4
+KX85 I,4
+KX85-II,4
+KZ 1000,4
+KZ 250 LTD,4
+KZ 400,4
+KZ 440 B1,4
+KZ 550,4
+KZ 650,4
+KZ 700-A1,4
+KZ 750,4
+KZ200A,4
+Mach III,4
+Ninja 1000,4
+Ninja 1000 ABS,4
+Ninja 1000SX,4
+Ninja 100RR,4
+Ninja 125,4
+Ninja 125,4
+Ninja 150,4
+Ninja 250,4
+Ninja 250,4
+Ninja 300,4
+Ninja 400,4
+Ninja 400 ABS ,4
+Ninja 400 KRT Edition,4
+Ninja 400 SE,4
+Ninja 500,4
+Ninja 650 ,4
+Ninja 650,4
+Ninja H2,4
+Ninja H2,4
+Ninja H2 Carbon,4
+Ninja H2 SX,4
+Ninja H2 SX SE,4
+Ninja H2 SX SE Plus,4
+Ninja H2R,4
+Ninja ZX-10,4
+Ninja ZX-10R,4
+Ninja ZX-10R SE,4
+Ninja ZX-12,4
+Ninja ZX-14,4
+Ninja ZX-14R ABS,4
+Ninja ZX-6,4
+Ninja ZX-6R,4
+Ninja ZX-6R Performance,4
+Ninja ZX-9R,4
+Prairie 360,4
+Pulsar 200NS,4
+SC-02 Soul Charger,4
+Stockman,4
+Super Sherpa,4
+Tengai,4
+Versys 1000,4
+Versys 1000,4
+Versys 1000 Grand Tourer,4
+Versys 1000 SE,4
+Versys 1000 SE LT Plus,4
+Versys 650,4
+Versys 650,4
+Versys 650L,4
+Versys-X,4
+Versys-X 300,4
+Versys-X 300 Adventure,4
+Versys-X 300 Urban,4
+VN 1500,4
+VN 1500 Classic,4
+VN 1500 Drifter,4
+VN 1500 Mean Streak,4
+VN 1500 Vulcan,4
+VN 1600 Classic,4
+VN 1600 Mean Streak,4
+VN 1700 Classic,4
+VN 1700 Light Tourer,4
+VN 1700 Voyager,4
+VN 2000 (VN2000-A1),4
+VN 2000 Classic,4
+VN 400 Classic,4
+VN 750,4
+VN 800,4
+VN 800 A,4
+VN 800 Classic,4
+VN 800 Drifter,4
+VN 800 Vulcan,4
+VN 900,4
+VN 900 Classic,4
+VN 900 Custom,4
+VN 900 Light Tourer,4
+VN-15,4
+Voyager XII,4
+Vulcan 1500 Classic,4
+Vulcan 1600 Classic,4
+Vulcan 1600 Mean Streak,4
+Vulcan 1600 Nomad,4
+Vulcan 1700 ABS Voyager,4
+Vulcan 1700 Classic,4
+Vulcan 1700 Nomad,4
+Vulcan 1700 Vaquero,4
+Vulcan 1700 Vaquero ABS,4
+Vulcan 1700 Voyager,4
+Vulcan 2000,4
+Vulcan 500,4
+Vulcan 750,4
+Vulcan 800,4
+Vulcan 900 Classic,4
+Vulcan 900 Classic,4
+Vulcan 900 Custom,4
+Vulcan 900 Custom,4
+Vulcan S,4
+Vulcan S ,4
+Vulcan S  Cafe,4
+Vulcan S Performance,4
+Vulcan S SE,4
+Vulcan S Tourer,4
+Vulcan VN700-A1,4
+W 175,4
+W 650,4
+W1,4
+W2,4
+W800,4
+W800,4
+W800 Street,4
+Z 1000,4
+Z 1100,4
+Z 1100 GP,4
+Z 125,4
+Z 1300,4
+Z 200,4
+Z 250,4
+Z 300,4
+Z 400,4
+Z 400 ABS,4
+Z 440,4
+Z 450,4
+Z 500,4
+Z 550,4
+Z 650,4
+Z 750,4
+Z 800,4
+Z 900,4
+Z H2,4
+Z1-B,4
+Z1000,4
+Z1000R Edition,4
+Z125 ,4
+Z1B Z900,4
+Z400,4
+Z650,4
+Z650L,4
+Z900,4
+Z900RS,4
+Z900RS Cafe,4
+Zephyr 1100,4
+Zephyr 550,4
+Zephyr 750,4
+ZL 1000,4
+ZL 400 Eliminator,4
+ZL 600,4
+ZL 900 Eliminator,4
+ZN 700 LTD Shaft,4
+ZR 550B Zephyr,4
+ZR-7,4
+ZRX 1100,4
+ZRX 1200,4
+ZRX 400,4
+ZX-10,4
+ZX-12,4
+ZX-6,4
+ZX-7,4
+ZX-9,4
+ZXR 400,4
+ZXR 750,4
+ZZ-R 500,4
+ZZR 1100,4
+ZZR 1200,4
+ZZR 1400,4
+ZZR 400,4
+ZZR 600,4
+ZZR-X,4
+ZZR1400,4
+ZZR1400 Performance Sport,4

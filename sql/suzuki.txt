@@ -1,0 +1,332 @@
+250 SB,5
+A 80,5
+Access,5
+Address,5
+Address,5
+AN 125,5
+AN 250 Burgman,5
+AN 400,5
+AN 650 Burgman,5
+AP 50,5
+AX4,5
+B-King,5
+Bandit 1200,5
+Bandit 1250,5
+Bandit 400,5
+Bandit 600,5
+Bandit 650,5
+Best 125,5
+Birdie,5
+Boost King,5
+Boulevard 400,5
+Boulevard C109,5
+Boulevard C50,5
+Boulevard C50,5
+Boulevard C50T,5
+Boulevard C90,5
+Boulevard M109,5
+Boulevard M109R B O S S,5
+Boulevard M1500,5
+Boulevard M50,5
+Boulevard M90,5
+Boulevard M95,5
+Boulevard S40,5
+Boulevard S50,5
+Boulevard S83,5
+Burgman 125,5
+Burgman 125,5
+Burgman 200,5
+Burgman 200,5
+Burgman 250,5
+Burgman 400,5
+Burgman 400 ,5
+Burgman 650 ,5
+Burgman 650,5
+Burgman 650 Executive,5
+Burgman Fuel Cell,5
+Crosscage,5
+Djebel 200,5
+Djebel 250,5
+DL 1000 V-Strom,5
+DL 1000 V-Strom,5
+DR 100,5
+DR 125,5
+DR 200,5
+DR 250,5
+DR 350,5
+DR 400,5
+DR 500,5
+DR 600,5
+DR 650,5
+DR 750,5
+DR 800,5
+DR-Z 110,5
+DR-Z 125,5
+DR-Z 250,5
+DR-Z 400,5
+DR-Z 50,5
+DR-Z 70,5
+DR-Z125L,5
+DR-Z250,5
+DR-Z400S,5
+DR-Z400SM,5
+DR-Z50,5
+DR200S,5
+DR200SE,5
+DR650S,5
+DRX 200,5
+DS 125,5
+DS 80,5
+e-Lets,5
+FX650,5
+FXR 150,5
+GD 110,5
+Gemma,5
+Gixxer,5
+Gixxer SF 250,5
+Gladius 400,5
+Gladius 650,5
+GN 125,5
+GN 250,5
+GN 400,5
+GNX 250,5
+GP 125,5
+GP RT63,5
+GR 650,5
+Grass Tracker,5
+GS 1000,5
+GS 1100,5
+GS 1200 SS,5
+GS 125,5
+GS 250,5
+GS 400,5
+GS 450,5
+GS 50,5
+GS 500,5
+GS 550,5
+GS 650 Katana,5
+GS 750,5
+GS 850,5
+GS-R,5
+GS150R,5
+GSF 1200,5
+GSF 1250,5
+GSF 250,5
+GSF 600,5
+GSR 250,5
+GSR 600,5
+GSR 750,5
+GSX 1100,5
+GSX 1200,5
+GSX 1250,5
+GSX 1300,5
+GSX 250,5
+GSX 550,5
+GSX 600,5
+GSX 650,5
+GSX 750,5
+GSX X Impulse,5
+GSX-R 1000,5
+GSX-R 1100,5
+GSX-R 125,5
+GSX-R 250,5
+GSX-R 600,5
+GSX-R 750,5
+GSX-R1000,5
+GSX-R1000R,5
+GSX-R1000R BSB Replica,5
+GSX-R125,5
+GSX-R125 ABS,5
+GSX-R600,5
+GSX-R750,5
+GSX-RR,5
+GSX-S 1000,5
+GSX-S 125,5
+GSX-S 750,5
+GSX-S1000,5
+GSX-S1000 ABS,5
+GSX-S1000F,5
+GSX-S1000F,5
+GSX-S1000FT,5
+GSX-S125,5
+GSX-S125 ABS,5
+GSX-S125 GP,5
+GSX-S750,5
+GSX-S750Z,5
+GSX250R,5
+GT 125,5
+GT 185,5
+GT 200,5
+GT 250,5
+GT 380,5
+GT 500,5
+GT 550,5
+GT 750,5
+GV 1200 GLF Madura,5
+GV 700 Madura,5
+GV1400 Cavalcade,5
+GW 250,5
+GX 125,5
+GZ 125,5
+GZ 150,5
+GZ 250,5
+Hayabusa,5
+Hayabusa,5
+Hayate,5
+Impulse,5
+Inazuma 250,5
+Inazuma 400,5
+Intruder 125,5
+Intruder 150,5
+Intruder 150,5
+Intruder 250,5
+Intruder 400,5
+Intruder 800,5
+Intruder C1500,5
+Intruder C1800,5
+Intruder C800,5
+Intruder Classic 800,5
+Intruder LC 1500,5
+Intruder LC250,5
+Intruder M1500,5
+Intruder M1800,5
+Intruder M800,5
+JR 50,5
+JR 80,5
+Katana,5
+Katana 1000,5
+Katana 600,5
+Katana 750,5
+Katana R50,5
+KingQuad 300,5
+KingQuad 400,5
+KingQuad 400ASi,5
+KingQuad 400ASi Camo,5
+KingQuad 450,5
+KingQuad 500,5
+KingQuad 500AXi,5
+KingQuad 500AXi Power Steering,5
+KingQuad 750,5
+KingQuad 750AXi,5
+LC 250 Intruder,5
+Lets,5
+LS 650 Savage,5
+LTA 750 XP,5
+LTF 250,5
+Marauder 125,5
+Marauder 1600 S,5
+Marauder 800,5
+Marauder GZ125,5
+Mola,5
+Nex,5
+Ozark,5
+PV 50,5
+QuadRacer 450,5
+QuadSport Z250,5
+QuadSport Z400,5
+QuadSport Z50,5
+QuadSport Z90,5
+Raider,5
+RE 5 Rotary,5
+Recursion,5
+RF 125,5
+RF 600,5
+RF 900,5
+RG 125,5
+RG 250,5
+RG 400,5
+RG 500 Gamma,5
+RGV 250 Gamma,5
+RM 100,5
+RM 125,5
+RM 250,5
+RM 400 C,5
+RM 465,5
+RM 60,5
+RM 65,5
+RM 80,5
+RM 85,5
+RM-Z 250,5
+RM-Z 450,5
+RM-Z250,5
+RM-Z450,5
+RM85,5
+RMX 450,5
+RV 125,5
+RV 90,5
+RV200 Van Van,5
+Savage 650,5
+SB 200,5
+SFV 650,5
+SFV650,5
+SFV650 ABS,5
+Shogun,5
+Shooter,5
+Sixteen,5
+Skydrive,5
+Skywave 250,5
+Skywave 400,5
+Skywave 650,5
+Slingshot,5
+Smash,5
+SP 370,5
+SP400,5
+SR 370,5
+ST 250,5
+Stratosphere,5
+Street Magic II,5
+SV 1000,5
+SV 400,5
+SV 650,5
+SV650,5
+SV650 ABS,5
+SV650X,5
+Swish,5
+T 20,5
+T 250,5
+T 350 R,5
+T 500,5
+TC 100 K Blazer,5
+TC 250,5
+TF 125,5
+Thunder 125,5
+TL 1000,5
+Tornado GX,5
+TR 50,5
+Trojan,5
+TS 100,5
+TS 125,5
+TS 185,5
+TS 250,5
+TU 250,5
+US 750 GL Intruder,5
+V-Strom 1000,5
+V-Strom 1000XT ABS,5
+V-Strom 1050,5
+V-Strom 1050XT,5
+V-Strom 1050XT Adventure,5
+V-Strom 250,5
+V-Strom 250 ABS,5
+V-Strom 650,5
+V-Strom 650,5
+V-Strom 650 GTA,5
+V-Strom 650X GTA,5
+V-Strom 650XT,5
+V-Strom 650XT Adventure,5
+VanVan 125,5
+VanVan 200,5
+Viva,5
+VL 125,5
+VL 1500,5
+VL 800,5
+Volty 250,5
+Volusia,5
+VS 1400,5
+VS 600,5
+VS 750,5
+VS 800,5
+VX 800,5
+VZ 800 Marauder,5
+VZR 1800,5
+XF 650 Freewind,5
+XR05 TR500,5

@@ -1,0 +1,107 @@
+AF1,1
+Atlantic 125,1
+Atlantic 250,1
+Atlantic 300,1
+Atlantic 400,1
+Atlantic 500,1
+Blue Marlin 1000,1
+Caponord 1000,1
+Caponord 1200,1
+Classic 125,1
+Classic 50,1
+Climber,1
+Dorsoduro 1200,1
+Dorsoduro 750,1
+Dorsoduro 900,1
+Dorsoduro 900,1
+ETV 1000,1
+ETX 125,1
+ETX 150,1
+ETX 350,1
+ETX 6,1
+F1 Sport Pro Replica,1
+Leonardo 125,1
+Leonardo 300,1
+Mana 850,1
+Mini RX,1
+Mojito 125,1
+Mojito 150,1
+Mojito 50,1
+Moto 6.5,1
+MX 125,1
+MX 50,1
+MXV 4.5,1
+Pegaso 125,1
+Pegaso 600,1
+Pegaso 650,1
+RS 125,1
+RS 125,1
+RS 125 Replica GP,1
+RS 250,1
+RS 50,1
+RS 50,1
+RS 660,1
+RS4 50,1
+RST 1000 Futura,1
+RSV 1000,1
+RSV4,1
+RSV4 1100 Factory,1
+RSV4 RF,1
+RX 125,1
+RX 125,1
+RX 125,1
+RX 250,1
+RX 50,1
+RX 50,1
+RX 50 Factory,1
+RXV 4.5,1
+RXV 5.5,1
+Scarabeo 100,1
+Scarabeo 125,1
+Scarabeo 200,1
+Scarabeo 250,1
+Scarabeo 300,1
+Scarabeo 400,1
+Scarabeo 50,1
+Shiver 750,1
+Shiver 900,1
+SL 1000 Falco,1
+Sonic 50,1
+SportCity 125,1
+SportCity 200,1
+SportCity 250,1
+SportCity 300,1
+SportCity 50,1
+SR 125,1
+SR 300,1
+SR 50,1
+SR 50 R,1
+SR Max 300,1
+SR Motard 125,1
+SRV 850,1
+SRV 850,1
+SRV 850 ABS-ATC,1
+STX 150,1
+SX 125,1
+SX 125,1
+SX 125,1
+SX 50,1
+SX 50 Factory,1
+SX 50 Factory,1
+SXV 4.5,1
+SXV 5.5,1
+SXV 550,1
+Tuareg 125 ES,1
+Tuareg 250,1
+Tuareg 350,1
+Tuareg 600,1
+Tuono 1000,1
+Tuono 1100,1
+Tuono 125,1
+Tuono 125,1
+Tuono 50,1
+Tuono 660,1
+Tuono V4 1100 Factory,1
+TX 125,1
+TX 311,1
+TXR 312 M,1

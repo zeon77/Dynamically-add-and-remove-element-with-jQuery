@@ -55,3 +55,21 @@ function getMakes($connection) {
         errorPage();
     }
 }
+
+function getModelsByMakeId($connection, $make_id) {
+    $query = 
+        "SELECT model
+        FROM mtr_model
+        WHERE make_id = ?";
+
+    if ($stmt = mysqli_prepare($connection, $query)) {
+        mysqli_stmt_bind_param($stmt, "i", $make_id);
+        mysqli_stmt_execute($stmt);
+        $result = mysqli_stmt_get_result($stmt);
+        return mysqli_fetch_all($result, MYSQLI_ASSOC);
+    } else {
+        logMessage("ERROR", 'Query error: ' . mysqli_error($connection));
+        die();
+        errorPage();
+    } 
+}
