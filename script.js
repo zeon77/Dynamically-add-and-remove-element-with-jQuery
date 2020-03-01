@@ -1,5 +1,8 @@
 $(document).ready(function () {
 
+    //Első motor gyártmánylista betöltése
+    loadMakeList('motor-1-make');
+
     // Add new motor
     $("#add-motor").click(function () {
 
@@ -12,19 +15,20 @@ $(document).ready(function () {
         var split_id = lastid.split("-");
         var nextindex = Number(split_id[1]) + 1;
 
-        const motor = `
+        const motor = /*html*/`
 <div class="form-inline mt-2 motor" id="motor-${nextindex}">
 
     <div class="form-group">
-        <!-- <label for="motor-${nextindex}-marka">Motor márka: </label> -->
-        <input type="text" id="motor-${nextindex}-make" name="motor-${nextindex}-make" class="form-control"
-            placeholder="Márka">
+        <select name="motor-${nextindex}-make" id="motor-${nextindex}-make" class="form-control make-select">
+            <option value="-1"> - Válassz gyártmányt - </option>
+        </select>
     </div>
 
     <div class="form-group mx-sm-2">
         <!-- <label for="motor-${nextindex}-tipus">Motor típus: </label> -->
-        <input type="text" id="motor-${nextindex}-type" name="motor-${nextindex}-type" class="form-control"
-            placeholder="Típus">
+        <select name="motor-${nextindex}-type" id="motor-${nextindex}-type" class="form-control model-select">
+            <option value="-1"> - Válassz modellt - </option>
+        </select>
     </div>
 
     <!-- Remove motor -->
@@ -36,10 +40,13 @@ $(document).ready(function () {
         `;
 
         var max = 5;
-        // Check total number elements
+        // Check total number of elements
         if (total_element < max) {
             $(element+":last").after(motor);
         }
+
+        //Hozzáadott motor gyártmánylista feltölése
+        loadMakeList('motor-'+nextindex+'make');
 
     });
 
@@ -75,3 +82,7 @@ $(document).ready(function () {
     });
 
 });
+
+function loadMakeList(select_id) {
+
+}

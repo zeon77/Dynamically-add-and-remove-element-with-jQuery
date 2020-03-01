@@ -29,8 +29,8 @@ $makes = getMakes($connection);
             <form action="<?= htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
 
                 <div class="form-inline motor" id="motor-1">
+                    
                     <div class="form-group">
-                        <!-- <label for="motor-1-marka">Motor márka: </label> -->
                         <select name="motor-1-make" id="motor-1-make" class="form-control make-select">
                             <option value="-1">- Válassz gyártmányt -</option>
                             <?php foreach ($makes as $make): ?>
@@ -40,7 +40,6 @@ $makes = getMakes($connection);
                     </div>
 
                     <div class="form-group mx-sm-2">
-                        <!-- <label for="motor-1-tipus">Motor típus: </label> -->
                         <select name="motor-1-model" id="motor-1-model" class="form-control model-select">
                             <option value="-1">- Válassz modellt -</option>
                         </select>
