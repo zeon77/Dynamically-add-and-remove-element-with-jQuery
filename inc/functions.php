@@ -46,7 +46,7 @@ function errorPage()
  *
  * @return void
  */
-function getMakes($connection) {
+function getMakeList($connection) {
     $query = "SELECT id, make FROM mtr_make";
     if ($result = mysqli_query($connection, $query)) {
         return mysqli_fetch_all($result, MYSQLI_ASSOC);

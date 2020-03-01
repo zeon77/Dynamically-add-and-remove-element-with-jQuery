@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
     //Első motor gyártmánylista betöltése
-    loadMakeList('motor-1-make');
+    loadMakeList('#motor-1-make');
 
     // Add new motor
     $("#add-motor").click(function () {
@@ -14,20 +14,21 @@ $(document).ready(function () {
         var lastid = $(element+":last").attr("id");
         var split_id = lastid.split("-");
         var nextindex = Number(split_id[1]) + 1;
+        var max = 5;
 
         const motor = /*html*/`
 <div class="form-inline mt-2 motor" id="motor-${nextindex}">
 
     <div class="form-group">
         <select name="motor-${nextindex}-make" id="motor-${nextindex}-make" class="form-control make-select">
-            <option value="-1"> - Válassz gyártmányt - </option>
+            <option value="-1">- Válassz gyártmányt -</option>
         </select>
     </div>
 
     <div class="form-group mx-sm-2">
         <!-- <label for="motor-${nextindex}-tipus">Motor típus: </label> -->
-        <select name="motor-${nextindex}-type" id="motor-${nextindex}-type" class="form-control model-select">
-            <option value="-1"> - Válassz modellt - </option>
+        <select name="motor-${nextindex}-model" id="motor-${nextindex}-model" class="form-control model-select">
+            <option value="-1">- Válassz modellt -</option>
         </select>
     </div>
 
@@ -38,15 +39,16 @@ $(document).ready(function () {
 
 </div>
         `;
-
-        var max = 5;
-        // Check total number of elements
+        
+        /**
+         * Motorok számának ellenőrzése, és új hozzáadása
+         */
         if (total_element < max) {
             $(element+":last").after(motor);
         }
 
         //Hozzáadott motor gyártmánylista feltölése
-        loadMakeList('motor-'+nextindex+'make');
+        loadMakeList('#motor-'+nextindex+'-make');
 
     });
 
@@ -62,8 +64,13 @@ $(document).ready(function () {
 
     });
 
-    //Populate model on makes change
-    $('.make-select').change(function(){
+    /**
+     * Populate model on makes change
+     * Az eseményfigyelőt a szülő elemen (.container) keresztül kell delegálni
+     * a jQuery .on() metódussal, hogy az utólag hozzáadott (.append, .after, stb.)
+     * elemeken is működjön.
+     */
+    $('.container').on('change', '.make-select', function() {
         var make_id = $(this).val();
         var motor_num = $(this).attr('id').split('-')[1];
 
@@ -83,6 +90,18 @@ $(document).ready(function () {
 
 });
 
+// Populate makes
 function loadMakeList(select_id) {
+    
+    $.ajax({
+        url: 'getMakeList.php',
+        type: 'post',
+        dataType: 'json',
+        success: function (response) {
+            response.forEach(element => {
+                $(select_id).append('<option value="'+ element.id +'">' + element.make + '</option>')
+            });
+        }
+    });
 
 }

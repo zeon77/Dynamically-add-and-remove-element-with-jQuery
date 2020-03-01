@@ -1,12 +1,3 @@
-<?php 
-include_once 'inc/config.php';
-include_once 'inc/functions.php';
-
-$connection = getConnection();
-$makes = getMakes($connection);
-
-?>
-
 <!DOCTYPE html>
 <html lang="hu">
 
@@ -25,20 +16,18 @@ $makes = getMakes($connection);
 
         <div class="row">
 
-            <!-- HTML form for creating a product -->
             <form action="<?= htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
 
                 <div class="form-inline motor" id="motor-1">
                     
+                    <!-- Gyártmány legördülő lista -->
                     <div class="form-group">
                         <select name="motor-1-make" id="motor-1-make" class="form-control make-select">
                             <option value="-1">- Válassz gyártmányt -</option>
-                            <?php foreach ($makes as $make): ?>
-                                <option value="<?=$make['id']?>"><?= $make['make'] ?></option>
-                            <?php endforeach; ?>
                         </select>
                     </div>
 
+                    <!-- Modell legördülő lista -->
                     <div class="form-group mx-sm-2">
                         <select name="motor-1-model" id="motor-1-model" class="form-control model-select">
                             <option value="-1">- Válassz modellt -</option>
@@ -52,6 +41,7 @@ $makes = getMakes($connection);
 
                 </div>
 
+                <!-- Új motor hozzáadása gomb -->
                 <div class="form-inline mt-2">
                     <div class="form-group">
                         <button type="button" class="btn btn-default" id="add-motor">
@@ -60,6 +50,7 @@ $makes = getMakes($connection);
                     </div>
                 </div>
 
+                <!-- Küldés gomb -->
                 <div class="form-inline mt-2">
                     <div class="form-group">
                         <button type="submit" class="btn btn-primary">Küldés</button>
